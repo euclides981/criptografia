@@ -17,7 +17,7 @@ body {
     align-items: center; 
 }
 #titulo {
-    color: rgb(229, 223, 224);
+    color: white;
     text-transform: uppercase;
 }
 .txt {
@@ -30,6 +30,7 @@ body {
 .txts {
     font-size: large;
     width: 100%;
+    height: 400px;
     resize: none;
     color: black;
     outline: none;
@@ -41,10 +42,20 @@ body {
 }
 .alerta {
     display: flex;
-    justify-content: center;
-    align-items: center;
     color: #576867;
     grid-gap: 10px;
+    justify-content: center;
+    
+}
+.alerta1 {
+    display: flex;
+    justify-content: center;
+    align-items:baseline;    
+}
+.alerta2 {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
 }
 #linkAlura {
     color: #576867;
@@ -81,6 +92,7 @@ body {
     justify-content: center;
     align-items: center;
     text-transform: uppercase;
+    color: #576867;
 }
 #tecnologias {
     padding: 5px;
