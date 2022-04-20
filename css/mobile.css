@@ -1,0 +1,25 @@
+.txt {
+    display: block;
+    grid-template-columns: 1 1fr;
+    padding: 20px;
+    text-align: center;
+}
+
+.txts {
+    font-size: large;
+    height: 200px;
+    resize: none;
+    color: black;
+    outline: none;
+    background-color: transparent;
+    font-family: 'Share Tech Mono', monospace;
+    background-image: url("/img/figura.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#botoes{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    text-align: center;    
+}

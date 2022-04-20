@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body {
+    font-family: 'Share Tech Mono', monospace;
+    margin: 0;
+}
+.container {
+    display: grid;
+    grid-template-columns: 4 1fr;
+    background: #D7E5E2;   
+}
+.barraSuperior {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background: #576867;
+    justify-items: center;
+    align-items: center; 
+}
+#titulo {
+    color: rgb(229, 223, 224);
+    text-transform: uppercase;
+}
+.txt {
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr 1fr;
+    padding: 30px;
+    text-align: center;
+    grid-gap: 25px;
+}
+.txts {
+    font-size: large;
+    width: 100%;
+    resize: none;
+    color: black;
+    outline: none;
+    background-color: transparent;
+    font-family: 'Share Tech Mono', monospace;
+    background-image: url("/img/figura.png");
+    background-repeat: no-repeat;
+    background-position: center;   
+}
+.alerta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #576867;
+    grid-gap: 10px;
+}
+#linkAlura {
+    color: #576867;
+    text-decoration: none;
+}
+#botoes{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;   
+    margin-bottom: 10px; 
+}
+.btns { 
+    background-color: #576867;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: 'Share Tech Mono', monospace;
+    letter-spacing: 0.1rem;
+    margin: 4px 10px;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;   
+}
+.btns:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#txtTec {
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+#tecnologias {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #576867;
+    grid-gap: 30px;
+    padding-bottom: 150px;
+}
+#meusLinks {
+    padding: 20px;
+    display: flex;
+    color: #fff;
+    background: #576867;
+    text-transform: uppercase;
+    justify-content: center;
+    text-align: center;
+    grid-gap:20px;
+}
