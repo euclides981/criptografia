@@ -13,7 +13,7 @@ document.querySelector('#criptografar').addEventListener('click', () => {
         document.querySelector('#saida').value = txtCriptografado;
         txtDigitado.value = "";
     } else {
-        document.querySelector('#entrada').value = "";
+        document.querySelector('#saida').value = "Digite Algo na Caixa ao Lado para Criptografar";
     }
 });
 
@@ -32,7 +32,7 @@ document.querySelector('#descriptografar').addEventListener('click', () => {
         document.querySelector('#saida').value = txtCriptografado;
         txtDigitado.value = "";
     } else {
-        
+        document.querySelector('#saida').value = "Digite Algo na Caixa ao Lado para Descriptografar";
     }
 });
 

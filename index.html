@@ -9,69 +9,66 @@
         <link rel="stylesheet" href="css/style.css">
         <script src="js/script.js" defer></script>
         <link rel="stylesheet" media="screen and (max-width: 800px)" href="css/mobile.css">
-       <!--  <link rel="stylesheet" media="screen and (min-width: 801px) and (max-width: 1600px)" href="css/mob_hrz.css"> -->
             <!-- Fonte Awesome -->
         <script src="https://kit.fontawesome.com/e801e4a6d3.js" crossorigin="anonymous"></script>
     </head>
     <body>
-
         <main>
-
-            
-            <div class="container">
-                
+            <header>
                 <div class="barraSuperior">
-                    <div id="logo"><img src="img/alura.svg"alt="">
-                    </div>        
-                    <div id="th1"><h1 id="titulo">Criptografia</h1>
-                    </div>        
-                    <div id="euc"><img src="img/euc.png"alt="">
+                    <picture>
+                        <source media="(max-width:800px )" srcset="/img/logoAluraLetraA.svg">
+                        <img src="/img/logoAluraG.svg" alt="">
+                    </picture>      
+                    <div id="th1"><h2 id="titulo">3ncr1pt4d0r</h2>
                     </div>
+                    <picture>
+                        <source media="(max-width:800px )" srcset="/img/logoS9.svg">
+                        <img src="/img/logoEuclides.svg" alt="">
+                    </picture>
                 </div>
+            </header>
 
-                <div class="txt">
-                    <div></div>
-                    <div class="txt1">
+            <div class="txt">
+                <div class="txt1">
                     <textarea class="txts" rows="15" id="entrada" placeholder="Digite o texto aqui"></textarea>
-                    </div>
-                    <div class="txt2">
+                </div>
+                <div class="txt2">
                     <textarea class="txts" rows="15" id="saida" placeholder="Saída Criptografada" disabled></textarea>
-                    </div>
-                    <div></div>
                 </div>
-
-                <div class="alerta">
-                    <div class="alerta1"><i class="fa-solid fa-circle-exclamation fa-2x collor-primary"></i>
-                        </i><p>&nbsp;Apenas letras minúsculas e sem acento!</p>
-                    </div>
-                    <div class="alerta2"><i class="fa-brands fa-figma fa-2x collor-primary"></i><a href="https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---Lógica?ode-id=16%3A802" id="linkAlura">&nbsp;Alura Challenge.</a>
-                    </div>
-                </div>
-
-                <div id="botoes">
-                    <button class="btns" id="criptografar">criptograr</button>
-                    <button class="btns" id="descriptografar">descriptografar</button>
-                    <button class="btns" id="ctrlc">copia e cola</button>
-                    <button class="btns" id="limp">Limpar</button>
-                </div>
-
-                <div id="txtTec"><p>Tecnólogias utilizadas neste desafio.</p></div>
-
-                <div id="tecs">
-                    <div class="tec1"><i class="fa-brands fa-html5 fa-2x collor-primary"></i><p>&nbsp;HTML5</p></div>
-                    <div class="tec2"><i class="fa-brands fa-js fa-2x collor-primary"></i><p>&nbsp;JavaScript</p></div>
-                    <div class="tec3"><i class="fa-brands fa-css3-alt fa-2x collor-primary"></i><p>&nbsp;CSS3</p></div>
-                </div>
-
-                <footer>
-                    <div class="barraInferior">
-                        <div id="meusLinks"> 
-                            <i class="fa-brands fa-linkedin-in fa-2x collor-primary"></i>
-                            <i class="fa-brands fa-git-alt fa-2x collor-primary"></i>
-                        </div>
-                    </div>
-                </footer>
             </div>
+
+            <div class="alerta">
+                <div class="alerta1"><i class="fa-solid fa-circle-exclamation fa-2x collor-primary"></i>
+                    </i><p>&nbsp;Apenas letras minúsculas e sem acento!</p>
+                </div>
+                <div class="alerta2"><i class="fa-brands fa-figma fa-2x collor-primary"></i><a href="https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---Lógica?ode-id=16%3A802" id="linkAlura">&nbsp;Alura Challenge.</a>
+                </div>
+            </div>
+
+            <div id="botoes">
+                <button class="btns" id="criptografar">criptografar</button>
+                <button class="btns" id="descriptografar">descriptografar</button>
+                <button class="btns" id="ctrlc">copia e cola</button>
+                <button class="btns" id="limp">Limpar</button>
+            </div>
+
+            <div id="txtTec"><p>Tecnólogias utilizadas neste desafio.</p></div>
+
+            <div id="tecs">
+                <div class="tec1"><i class="fa-brands fa-html5 fa-2x collor-primary"></i><p>&nbsp;HTML5</p></div>
+                <div class="tec2"><i class="fa-brands fa-js fa-2x collor-primary"></i><p>&nbsp;JavaScript</p></div>
+                <div class="tec3"><i class="fa-brands fa-css3-alt fa-2x collor-primary"></i><p>&nbsp;CSS3</p></div>
+            </div>
+
+            <footer>
+                <div class="barraInferior">
+                    <div id="meusLinks"> 
+                        <i class="fa-brands fa-linkedin-in fa-2x collor-primary"></i>
+                        <i class="fa-brands fa-git-alt fa-2x collor-primary"></i>
+                    </div>
+                </div>
+            </footer>
         </main>
     </body>
 </html>

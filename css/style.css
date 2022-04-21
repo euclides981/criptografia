@@ -3,11 +3,7 @@
 body {
     font-family: 'Share Tech Mono', monospace;
     margin: 0;
-}
-.container {
-    display: grid;
-    grid-template-columns: 4 1fr;
-    background: #D7E5E2;   
+    background: #D7E5E2;
 }
 .barraSuperior {
     display: grid;
@@ -19,23 +15,23 @@ body {
 #titulo {
     color: white;
     text-transform: uppercase;
+    letter-spacing: 0.2rem;
 }
 .txt {
     display: grid;
-    grid-template-columns: 1fr 3fr 3fr 1fr;
+    grid-template-columns:1fr 1fr;
     padding: 30px;
     text-align: center;
     grid-gap: 25px;
 }
 .txts {
-    font-size: large;
     width: 100%;
     resize: none;
     color: black;
     outline: none;
     background-color: transparent;
     font-family: 'Share Tech Mono', monospace;
-    background-image: url("/img/figura.png");
+    background-image: url("/img/boneco.svg");
     background-repeat: no-repeat;
     background-position: center;   
 }
@@ -48,10 +44,12 @@ body {
 .alerta1 {
     display: flex;
      align-items: center;
+     justify-content: center;
 }
 .alerta2 {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 #linkAlura {
     color: #576867;
@@ -59,7 +57,6 @@ body {
 }
 #botoes{
     padding: 20px;
-    display: flex;
     justify-content: center;
     text-align: center;   
 }
@@ -81,7 +78,8 @@ body {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 #txtTec {
-    padding-top: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     display: flex;
     justify-content: center;
     align-items: center;

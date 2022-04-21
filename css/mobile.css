@@ -1,21 +1,11 @@
+#titulo {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
 .txt {
     display: block;
-    grid-template-columns: 1 1fr;
     padding: 20px;
-    text-align: center;
-}
-
-.txts {
-    font-size: large;
-    height: 200px;
-    resize: none;
-    color: black;
-    outline: none;
-    background-color: transparent;
-    font-family: 'Share Tech Mono', monospace;
-    background-image: url("/img/figura.png");
-    background-repeat: no-repeat;
-    background-position: center;
 }
 .alerta {
     display: grid;
@@ -23,31 +13,9 @@
     color: #576867;
     grid-gap: 10px;
 }
-.alerta1 {
-    display: flex;
-    justify-content: center;
-}
-.alerta2 {
-    display: flex;
-    justify-content: center;
-}
 #botoes{
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-content: center;
     text-align: center;    
-}
-.btns { 
-    background-color: #576867;
-    border: none;
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: 'Share Tech Mono', monospace;
-    letter-spacing: 0.1rem;
-    margin: 10px;
-    cursor: pointer;
-    text-transform: uppercase;
-    border-radius: 5px;   
 }
