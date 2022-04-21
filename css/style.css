@@ -31,7 +31,7 @@ body {
     outline: none;
     background-color: transparent;
     font-family: 'Share Tech Mono', monospace;
-    background-image: url(/img/boneco.svg);
+    background-image: url("../img/boneco.svg");
     background-repeat: no-repeat;
     background-position: center;   
 }
