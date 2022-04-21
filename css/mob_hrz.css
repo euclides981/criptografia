@@ -18,7 +18,20 @@
     background-repeat: no-repeat;
     background-position: center;
 }
-
+.alerta {
+    display: grid;
+    grid-template-columns: 1fr;
+    color: #576867;
+    grid-gap: 10px;
+}
+.alerta1 {
+    display: flex;
+    justify-content: center;
+}
+.alerta2 {
+    display: flex;
+    justify-content: center;
+}
 #botoes{
     justify-content: center;
     text-align: center;    
