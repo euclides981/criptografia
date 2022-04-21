@@ -20,7 +20,7 @@ body {
 .txt {
     display: grid;
     grid-template-columns:1fr 1fr;
-    padding: 30px;
+    padding: 50px;
     text-align: center;
     grid-gap: 25px;
 }
@@ -31,7 +31,7 @@ body {
     outline: none;
     background-color: transparent;
     font-family: 'Share Tech Mono', monospace;
-    background-image: url("/img/boneco.svg");
+    background-image: url("img/boneco.svg");
     background-repeat: no-repeat;
     background-position: center;   
 }
@@ -106,7 +106,7 @@ body {
     align-items: baseline;
 }
 #meusLinks {
-    padding: 20px;
+    padding: 30px;
     display: flex;
     color: #fff;
     background: #576867;
