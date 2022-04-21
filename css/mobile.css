@@ -7,7 +7,11 @@
     display: block;
     padding: 20px;
 }
+.txts {
+    max-height: 180px;
+}
 .alerta {
+    padding-top: 5px;
     display: grid;
     grid-template-columns: 1fr;
     color: #576867;

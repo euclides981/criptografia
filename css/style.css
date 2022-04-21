@@ -26,6 +26,7 @@ body {
 }
 .txts {
     width: 100%;
+    height: 100%;
     resize: none;
     color: black;
     outline: none;
@@ -33,9 +34,12 @@ body {
     font-family: 'Share Tech Mono', monospace;
     background-image: url("../img/boneco.svg");
     background-repeat: no-repeat;
-    background-position: center;   
+    background-position: center;
+    border-radius: 10px;
+    padding-bottom: 50px;
 }
 .alerta {
+    padding-top: 20px;
     display: flex;
     color: #576867;
     grid-gap: 20px;

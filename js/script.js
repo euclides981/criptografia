@@ -13,7 +13,8 @@ document.querySelector('#criptografar').addEventListener('click', () => {
         document.querySelector('#saida').value = txtCriptografado;
         txtDigitado.value = "";
     } else {
-        document.querySelector('#saida').value = "Digite Algo na Caixa ao Lado para Criptografar";
+        alert("Digite Algo na Caixa para Criptografar");
+        /* document.querySelector('#saida').value = "Digite Algo na Caixa ao Lado para Criptografar"; */
     }
 });
 
@@ -32,7 +33,8 @@ document.querySelector('#descriptografar').addEventListener('click', () => {
         document.querySelector('#saida').value = txtCriptografado;
         txtDigitado.value = "";
     } else {
-        document.querySelector('#saida').value = "Digite Algo na Caixa ao Lado para Descriptografar";
+        alert("Digite Algo na Caixa para Descriptografar");
+        /* document.querySelector('#saida').value = "Digite Algo na Caixa ao Lado para Descriptografar"; */
     }
 });
 
@@ -52,3 +54,15 @@ document.querySelector('#limp').addEventListener('click', () => {
 document.querySelector('#saida').value = "";
 document.querySelector('#entrada').value = "";
 });
+
+function share(){
+	if (navigator.share !== undefined) {
+		navigator.share({
+			title: 'Encriptador',
+			text: 'Projeto de um Encriptador de Texto',
+			url: 'https://euclides981.github.io/criptografia/',
+		})
+		.then(() => console.log('Successful share'))
+		.catch((error) => console.log('Error sharing', error));
+	}
+}
