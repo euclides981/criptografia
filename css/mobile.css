@@ -37,3 +37,18 @@
     justify-content: center;
     text-align: center;    
 }
+.btns { 
+    background-color: #576867;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Share Tech Mono', monospace;
+    letter-spacing: 0.1rem;
+    margin: 4px 10px;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;   
+}
