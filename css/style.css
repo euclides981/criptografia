@@ -119,3 +119,9 @@ body {
     text-align: center;
     grid-gap:20px;
 }
+#share {
+    color: #fff;
+}
+#shareV {
+    color: #576867;
+}
