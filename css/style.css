@@ -3,7 +3,7 @@
 body {
     font-family: 'Share Tech Mono', monospace;
     margin: 0;
-    background: #D7E5E2;
+    background: #d7e5e2;
 }
 .barraSuperior {
     display: grid;
@@ -16,17 +16,51 @@ body {
     color: white;
     text-transform: uppercase;
     letter-spacing: 0.2rem;
+    border-right: 2px solid rgba(255, 255, 255, 255);
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: center;
+    user-select: none;
+    
+}
+.typing-animation {    
+    animation: blinkCursor 1s 400ms steps(20) normal infinite, typing 4s steps(20) normal 5s;
+}
+@keyframes typing {
+    from{
+        width: 0;
+    }
+    to {
+        width: 11.5rem;
+    }
+}
+
+@keyframes blinkCursor {
+    from{
+        border-right-color: rgba(255,255,255,0.75);
+    }
+    to {
+        border-right-color: transparent;
+    }
+}
+
+#aviso {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    user-select: none;
+    color: red;
 }
 .txt {
     display: grid;
     grid-template-columns:1fr 1fr;
-    padding: 50px;
+    padding: 40px;
     text-align: center;
     grid-gap: 25px;
 }
 .txts {
     width: 100%;
-    height: 100%;
     resize: none;
     color: black;
     outline: none;
