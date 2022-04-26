@@ -3,8 +3,6 @@ document.getElementById("descriptografar").addEventListener("click", descriptar)
 
 function descriptar(){
     
-    document.getElementById("entrada").focus();
-    
     var txtDigitado = document.getElementById("entrada");
     
     if (txtDigitado.value != "") {

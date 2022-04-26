@@ -9,22 +9,16 @@ async function copiaECola() {
 	document.getElementById("saida").value = "";
 	document.getElementById("entrada").value = text;
 	document.getElementById("aviso").innerHTML = "&nbsp";
-	document.getElementById("entrada").focus();
 	}
 
 function limpeza(){
 	document.getElementById("saida").value = "";
 	document.getElementById("entrada").value = "";
 	document.getElementById("aviso").innerHTML = "&nbsp";
-	document.getElementById("entrada").focus();
 }
 
 function share(){
 	if (navigator.share !== undefined) {
-		navigator.share()/* {
-			title: "",
-			text: "",
-			url: "",
-		}) */
+		navigator.share({title: "", text: "", url: "",})
 	}
 };

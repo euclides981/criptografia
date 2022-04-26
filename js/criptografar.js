@@ -1,8 +1,4 @@
-document.getElementById("entrada").focus();
-
 document.getElementById("criptografar").addEventListener("click", encriptar);
-
-document.getElementById("entrada").focus();
 
     function encriptar(){
 
