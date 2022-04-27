@@ -1,1 +1,0 @@
-# Criptografia Alura Challenger.

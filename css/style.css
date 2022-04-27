@@ -5,6 +5,9 @@ body {
     margin: 0;
     background: #d7e5e2;
 }
+#ico {
+    font-weight: bold;
+}
 .barraSuperior {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

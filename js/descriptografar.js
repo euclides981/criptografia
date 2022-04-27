@@ -3,19 +3,15 @@ document.getElementById("descriptografar").addEventListener("click", descriptar)
 
 function descriptar(){
     
-    var txtDigitado = document.getElementById("entrada");
+    var txtColado = document.getElementById("entrada").value;
     
-    if (txtDigitado.value != "") {
-        var txtCriptografado = txtDigitado.value.replace(/enter/g, "e");
-        txtCriptografado = txtCriptografado.replace(/imes/g, "i");
-        txtCriptografado = txtCriptografado.replace(/ai/g, "a");
-        txtCriptografado = txtCriptografado.replace(/ober/g, "o");
-        txtCriptografado = txtCriptografado.replace(/ufat/g, "u");
+    if (txtColado != "") {
+        var txtCripto = txtColado.replace(/enter/g, "e").replace(/imes/g, "i").replace(/ai/g, "a").replace(/ober/g, "o").replace(/ufat/g, "u");
         
-        document.getElementById("saida").value = txtCriptografado;
-        document.getElementById("txtDigitado").value = "";
+        document.getElementById("saida").value = txtCripto;
+        document.getElementById("entrada").value = "";
         document.getElementById("aviso").innerHTML = "&nbsp";
     } else {
-        document.getElementById("aviso").innerHTML = "Digite ou Cole Algo Para Descriptografar";
+        document.getElementById("aviso").innerText = "Digite ou Cole Algo Para Descriptografar";
     }
 };
