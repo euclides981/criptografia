@@ -149,16 +149,13 @@ body {
 #meusLinks {
     padding: 30px;
     display: flex;
-    color: #fff;
     background: #576867;
-    text-transform: uppercase;
     justify-content: center;
-    text-align: center;
-    grid-gap:20px;
-}
-#share {
-    color: #fff;
+    grid-gap:10%;
 }
 #shareV {
     color: #576867;
+}
+.corBranca {
+    color: aliceblue;
 }
