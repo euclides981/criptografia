@@ -1,8 +1,15 @@
 <!DOCTYPE html>
     <html lang="pt-BR">
 
-    <head>
+        <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>ENCRIPTADOR &nbsp;&nbsp;&nbsp;&nbsp/></title>
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" media="screen and (max-width: 800px)" href="css/mobile.css">
+        <link rel="icon" type="image/x-icon" href="img/favicon.svg">
         <!-- tag property -->
         <meta property="og:image" content="https://euclides981.github.io/criptografia/img/laptop.png">
         <meta property="og:type" content="image/png">
@@ -12,54 +19,63 @@
         <meta property="og:description" content="Encriptador de Texto Feito em JavaScript - Esse Projeto faz Parte do Curso de Programação da Alura / Oracle">
         <meta property="og:url" content="https://euclides981.github.io/criptografia">
         <meta name="twitter:card" content="summary_large_image">
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="css/reset.css">
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" media="screen and (max-width: 800px)" href="css/mobile.css">
-        <link rel="icon" type="image/x-icon" href="img/favicon.svg">
        
     </head>
+
     <body>
+
         <main>
+
             <header>
-                <div class="barraSuperior">
-                    <picture>
-                        <source media="(max-width:800px )" srcset="img/logoAluraLetraA.svg">
-                        <img src="img/logoAluraG.svg" alt="Alura">
-                    </picture>      
-                        <div id="th1"><h2 class="typing-animation" id="titulo">3ncr1pt4d0r</h2>
-                        </div>
-                    <a href="https://euclides981.github.io/" target="blank">
+
+                <div id="barraSuperior">
+
+                    <a href="https://www.alura.com.br/oracle-next-education" target="_blank">
+                        <picture>
+                            <source media="(max-width:800px )" srcset="img/logoAluraLetraA.svg">
+                            <img src="img/logoAluraG.svg" alt="Alura">
+                        </picture>
+                    </a>
+
+                    <div id="th1"><h2 class="typing-animation" id="titulo">3ncr1pt4d0r</h2></div>
+                    
+                    <a href="https://euclides981.github.io/" target="_blank">
                         <picture>
                             <source media="(max-width:800px )" srcset="img/euclides_p.svg">
                             <img class="imagem8" src="img/euclides.svg" alt="euclides981">
                         </picture>
                     </a>
+                
                 </div>
+            
             </header>
 
             <div id="aviso">&nbsp;</div>
 
-            <div class="txt">
-                <div class="txt1">
+            <div id="txt">
+
+                <div>
                     <textarea class="txts" rows="15" id="entrada" placeholder="Digite o texto aqui" autofocus="true"></textarea>
                 </div>
-                <div class="txt2">
+
+                <div>
                     <textarea class="txts" rows="15" id="saida" placeholder="Saída Criptografada" disabled></textarea>
                 </div>
+
             </div>
 
-                <div id="troca">
-                <div class="alerta">
-                    <div class="alerta1"><i class="fa-solid fa-circle-exclamation fa-2x collor-primary"></i>
+            <div id="troca">
+
+                <div id="alerta">
+
+                    <div id="alerta1"><i class="fa-solid fa-circle-exclamation fa-2x collor-primary"></i>
                         </i><p>&nbsp;Apenas letras minúsculas e sem acento!</p>
                     </div>
-                    <div class="alerta2"><a href="javascript:void(0)" onclick="share()">
-                        <i class="fa-solid fa-share-nodes fa-2x" id="shareV"></i>
-                    </a>
+
+                    <div id="alerta2">
+                        <a href="javascript:void(0)" onclick="share()"><i class="fa-solid fa-share-nodes fa-2x" id="shareV"></i></a>
                     </div>
+                
                 </div>
 
                 <div id="botoes">
@@ -68,6 +84,7 @@
                     <button class="btns" id="ctrlc">copia e cola</button>
                     <button class="btns" id="limp">Limpar</button>
                 </div>
+                
             </div>
 
             <hr>
@@ -75,25 +92,28 @@
             <div id="txtTec"><p>Tecnólogias utilizadas neste desafio</p></div>
 
             <div id="tecs">
-                <div class="tec"><i class="fa-brands fa-html5 fa-2x"></i><p>HTML5</p></div>
-                <div class="tec"><i class="fa-brands fa-js fa-2x"></i><p>JavaScript</p></div>
-                <div class="tec"><i class="fa-brands fa-css3-alt fa-2x"></i><p>CSS3</p></div>
+                <div><i class="fa-brands fa-html5 fa-2x"></i><p>HTML5</p></div>
+                <div><i class="fa-brands fa-js fa-2x"></i><p>JavaScript</p></div>
+                <div><i class="fa-brands fa-css3-alt fa-2x"></i><p>CSS3</p></div>
             </div>
 
             <footer>
-                <div class="barraInferior">
-                    <div id="meusLinks"> 
-                            <a href="https://www.linkedin.com/in/euclides981/" target="blank"><i class="fa-brands fa-linkedin-in fa-2x corBranca"></i></a>
-                            <a href="https://euclides981.github.io/" target="blank"><i class="fa-brands fa-git-alt fa-2x corBranca"></i></a>
-                            <a href="javascript:void(0)" onclick="share()"><i class="fa-solid fa-share-nodes fa-2x corBranca"></i></a>
-                    </div>
+
+                <div id="meusLinks"> 
+                    <a href="https://www.linkedin.com/in/euclides981/" target="_blank"><i class="fa-brands fa-linkedin-in fa-2x corBranca"></i></a>
+                    <a href="https://euclides981.github.io/" target="_blank"><i class="fa-brands fa-git-alt fa-2x corBranca"></i></a>
+                    <a href="javascript:void(0)" onclick="share()"><i class="fa-solid fa-share-nodes fa-2x corBranca"></i></a>
                 </div>
+
             </footer>
+
         </main>
+
     </body>
-     <script src="https://kit.fontawesome.com/e801e4a6d3.js" crossorigin="anonymous"></script>
-     <script src="js/btns-copiar-limpar.js" defer></script>
-     <script src="js/criptografar.js" defer></script>
-     <script src="js/descriptografar.js" defer></script>
+
+    <script src="https://kit.fontawesome.com/e801e4a6d3.js" crossorigin="anonymous"></script>
+    <script src="js/btns-copiar-limpar.js" defer></script>
+    <script src="js/criptografar.js" defer></script>
+    <script src="js/descriptografar.js" defer></script>
 
 </html>

@@ -1,3 +1,6 @@
+#barraSuperior {
+   padding: 3px;
+}
 #titulo {
     color: white;
     text-transform: uppercase;
@@ -6,13 +9,13 @@
 #aviso {
     padding-top: 5px;
 }
-.txt {
+#txt {
     display: block;
     padding: 10px;
     padding-bottom: 0px;
 }
 .txts {
-    max-height: 180px;
+    max-height: 150px;
 }
 #botoes{
     display: grid;
@@ -21,14 +24,14 @@
     text-align: center;
     padding-top: 0px;
 }
-.alerta {
+#alerta {
     padding-top: 1px;
     display: grid;
     grid-template-columns: 1fr;
     color: #576867;
     grid-gap: 10px;
 }
-.alerta2 {
+#alerta2 {
     display: none;
 }
 #txtTec {
@@ -41,4 +44,7 @@
     align-items: center;
     color: #576867;
     padding-bottom: 20px;
+}
+#meusLinks {
+    padding: 3px;
 }
