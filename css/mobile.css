@@ -3,23 +3,42 @@
     text-transform: uppercase;
     letter-spacing: 0.2rem;
 }
+#aviso {
+    padding-top: 5px;
+}
 .txt {
     display: block;
-    padding: 20px;
+    padding: 10px;
+    padding-bottom: 0px;
 }
 .txts {
     max-height: 180px;
-}
-.alerta {
-    padding-top: 5px;
-    display: grid;
-    grid-template-columns: 1fr;
-    color: #576867;
-    grid-gap: 10px;
 }
 #botoes{
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-content: center;
-    text-align: center;    
+    text-align: center;
+    padding-top: 0px;
+}
+.alerta {
+    padding-top: 1px;
+    display: grid;
+    grid-template-columns: 1fr;
+    color: #576867;
+    grid-gap: 10px;
+}
+.alerta2 {
+    display: none;
+}
+#txtTec {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#tecs {
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    color: #576867;
+    padding-bottom: 20px;
 }

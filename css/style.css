@@ -5,9 +5,6 @@ body {
     margin: 0;
     background: #d7e5e2;
 }
-#ico {
-    font-weight: bold;
-}
 .barraSuperior {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -58,7 +55,7 @@ body {
 .txt {
     display: grid;
     grid-template-columns:1fr 1fr;
-    padding: 40px;
+    padding: 20px;
     text-align: center;
     grid-gap: 25px;
 }
@@ -118,6 +115,11 @@ body {
 .btns:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
+
+hr {
+    max-width: 70%;
+    margin-top: 20px;
+}
 #txtTec {
     padding-top: 40px;
     padding-bottom: 40px;
@@ -134,17 +136,9 @@ body {
     color: #576867;
     padding-bottom: 150px;
 }
-.tec1 {
-    display: flex;
-    align-items:baseline;
-}
-.tec2 {
-    display: flex;
-    align-items: baseline;
-}
-.tec3 {
-    display: flex;
-    align-items: baseline;
+.tec {
+    display: grid;
+    text-align: center;
 }
 #meusLinks {
     padding: 30px;
@@ -158,4 +152,15 @@ body {
 }
 .corBranca {
     color: aliceblue;
+}
+@media screen and (max-width: 800px) {
+    #troca {
+        display: grid;
+    }
+    .alerta {
+        order: 2;
+    }
+    #botoes {
+        order: 1;
+    }
 }
