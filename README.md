@@ -15,9 +15,25 @@
 
 <br>
 
-## A seguir apresento a prévia do projeto.
+### Descrição:
+
+Este é um sistema de codificação de palavras. Ele transforma as vogais:
+
+## :hammer: Funcionalidades do projeto 
+
+:hammer_and_wrench:
+
+- `Vogal a: `Transforma em : ai
+- `Vogal e: `Transforma em : enter
+- `Vogal i: `Transforma em : imes
+- `Vogal o: `Transforma em : ober
+- `Vogal u: `Transforma em : ufat
 
 <br>
+
+<br>
+
+## A seguir apresento a prévia do projeto.
 
 [![Prévia do Projeto](img/previa.png)](https://github.com/euclides981/criptografia#readme)
 
