@@ -23,5 +23,19 @@
 
 <br>
 
-[![Prévia do Projeto](img/previa.mp4)](https://github.com/euclides981/criptografia#readme)
+## Uma Prévia em dispositivos menores.
+
+<br>
+
+[![Prévia do Projeto](img/previa_mobile.png)](https://github.com/euclides981/criptografia#readme)
+
+<br>
+
+## Uma prévia do sistema em funcionamento
+
+<br>
+
+<a href="url"><img src="img/previa.gif" width="400" ></a>
+
+<br>
 

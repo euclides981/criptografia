@@ -4,7 +4,7 @@ function encriptar(){
 
     var txtDigitado = document.getElementById("entrada").value;
     if (txtDigitado != "") {
-    var txtCripto = txtDigitado.split(/e/i).join("enter").split(/i/i).join("imes").split(/a/i).join("ai").split(/o/i).join("ober").split(/u/i).join("ufat");
+    var txtCripto = txtDigitado.split(/e/g).join("enter").split(/i/g).join("imes").split(/a/g).join("ai").split(/o/g).join("ober").split(/u/g).join("ufat");
 
     document.getElementById("saida").value = txtCripto;
     document.getElementById("entrada").value = "";
