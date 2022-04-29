@@ -1,6 +1,7 @@
 # ENCRIPTADOR
 
 ## Projeto Proposto no Programa ONE - Oracle & Alura!
+
 <br>
 
 ![Capa](img/banner.gif)
@@ -14,4 +15,4 @@
 
 <br>
 
-![Prévia do Projeto](img/previa.png)
+![Prévia do Projeto](https://github.com/euclides981/criptografia/blob/main/img/previa.png)
