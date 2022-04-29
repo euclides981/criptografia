@@ -1,6 +1,6 @@
-# ENCRIPTADOR
+# :lock: ENCRIPTADOR
 
-## Projeto Proposto no Programa ONE - Oracle & Alura!
+## 	:green_circle: Projeto Proposto no Programa ONE - Oracle & Alura!
 
 <br>
 
@@ -15,13 +15,13 @@
 
 <br>
 
-### Descrição:
+### :black_nib: Descrição:
 
-Este é um sistema de codificação de palavras. Ele transforma as vogais:
+Este é um sistema de codificação de palavras. Ele transforma as vogais em palavras:
 
-## :hammer: Funcionalidades do projeto 
+## :arrows_counterclockwise: Exemplo de como as trocas são feitas
 
-:hammer_and_wrench:
+<br>
 
 - `Vogal a: `Transforma em : ai
 - `Vogal e: `Transforma em : enter
@@ -33,13 +33,13 @@ Este é um sistema de codificação de palavras. Ele transforma as vogais:
 
 <br>
 
-## A seguir apresento a prévia do projeto.
+## :computer: A seguir apresento a prévia do projeto.
 
 [![Prévia do Projeto](img/previa.png)](https://github.com/euclides981/criptografia#readme)
 
 <br>
 
-## Uma Prévia em dispositivos menores.
+## 	:iphone: Uma Prévia em dispositivos menores.
 
 <br>
 
@@ -47,7 +47,7 @@ Este é um sistema de codificação de palavras. Ele transforma as vogais:
 
 <br>
 
-## Uma prévia do sistema em funcionamento
+## :arrow_forward: Uma prévia do sistema em funcionamento
 
 <br>
 
