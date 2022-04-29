@@ -3,7 +3,7 @@
 ## Projeto Proposto no Programa ONE - Oracle & Alura!
 <br>
 
-![Prévia do Projeto](img/banner.gif)
+![Prévia do Projeto](https://github.com/euclides981/criptografia/blob/main/img/previa.png)
 
 <br>
 
