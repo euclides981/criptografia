@@ -4,15 +4,24 @@
 
 <br>
 
-![Capa](img/banner.gif)
+[![Capa](img/banner.gif)](https://github.com/euclides981/criptografia#readme) 
 
 <br>
 
-[![Olá Mundo](https://shields.io/badge/Olá-Mundo-blue)]() 
-[![Status](https://shields.io/badge/STATUS-V%200.1%20Concluído-green)]() 
-[![Status](https://shields.io/badge/Tecnologias%20Utilizadas-|%20HTML%205%20|%20CSS%203%20|%20JavaScript%20|-orange)](https://euclides981.github.io/criptografia) 
+[![Olá Mundo](https://shields.io/badge/Olá-Mundo-blue)](https://github.com/euclides981/criptografia#readme) 
+[![Status](https://shields.io/badge/STATUS-V%200.1%20Concluído-green)](https://github.com/euclides981/criptografia#readme) 
+[![Status](https://shields.io/badge/Tecnologias%20Utilizadas-|%20HTML%205%20|%20CSS%203%20|%20JavaScript%20|-orange)](https://github.com/euclides981/criptografia#readme) 
 [![View Deployment](https://shields.io/badge/View-Deployment-yellow.svg)](https://euclides981.github.io/criptografia) 
 
 <br>
 
-![Prévia do Projeto](https://github.com/euclides981/criptografia/blob/main/img/previa.png)
+## A seguir apresento a prévia do projeto.
+
+<br>
+
+[![Prévia do Projeto](img/previa.png)](https://github.com/euclides981/criptografia#readme)
+
+<br>
+
+[![Prévia do Projeto](img/previa.mp4)](https://github.com/euclides981/criptografia#readme)
+
