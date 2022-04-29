@@ -35,7 +35,7 @@
 
 <br>
 
-<a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="300" ></a>
+<a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="250" ></a>
 
 <br>
 
