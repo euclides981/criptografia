@@ -11,7 +11,7 @@ body {
     background: #576867;
     justify-items: center;
     align-items: center;
-    padding: 15px;
+    padding: 20px;
 }
 #titulo {
     color: white;
@@ -136,7 +136,7 @@ hr {
     padding-bottom: 130px;
 }
 #meusLinks {
-    padding: 15px;
+    padding: 20px;
     display: flex;
     background: #576867;
     justify-content: center;
