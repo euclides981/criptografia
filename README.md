@@ -33,7 +33,8 @@ ___
 [![Prévia do Projeto](img/previa_mobile.png)](https://github.com/euclides981/criptografia#readme)
 ___
 ###  <div align="center">:arrow_forward: Uma prévia do sistema em funcionamento.</div>
-___
-<h1 align="center"><a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="300" alt="Docusaurus"></a></h1>
+
+<h1 align="center"><a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="280" alt="Prévia Do Sistema Funcionando"></a></h1>
+
 ___
 ## :smile: Links Uteis
