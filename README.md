@@ -2,7 +2,7 @@
 
 <br>
  
-### :green_circle: Projeto Proposto no Programa ONE - Oracle & Alura!
+## :green_circle: Projeto Proposto no Programa ONE - Oracle & Alura!
 
 <br>
 
@@ -14,6 +14,8 @@
 [![Status](https://shields.io/badge/STATUS-V%200.1%20Concluído-green)](https://github.com/euclides981/criptografia#readme) 
 [![Status](https://shields.io/badge/Tecnologias%20Utilizadas-|%20HTML%205%20|%20CSS%203%20|%20JavaScript%20|-orange)](https://github.com/euclides981/criptografia#readme) 
 [![View Deployment](https://shields.io/badge/View-Deployment-yellow.svg)](https://euclides981.github.io/criptografia) 
+
+---
 
 <br>
 
@@ -56,3 +58,13 @@ Este é um sistema de codificação de palavras. Ele transforma as vogais em pal
 <br>
 
 ## :smile: Links Uteis
+
+
+
+
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
