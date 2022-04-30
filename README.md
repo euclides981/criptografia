@@ -43,4 +43,6 @@ ___
 [![Linkedin](https://shields.io/badge/Linkedin-Euclides-brown)](https://www.linkedin.com/in/euclides981/)
 [![Portifólio](https://shields.io/badge/Portifólio-Euclides-aqua)](https://euclides981.github.io)
 
+___
+
 # <div align="center">:star: [![Estrelas](https://shields.io/badge/Estrelas-Veja%20quem%20já%20%20deu%20estrelas%20%20E%20Deixe%20a%20sua%20Também-red)](https://github.com/euclides981/criptografia/stargazers) :star:</div>
