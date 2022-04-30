@@ -31,6 +31,7 @@ hr {
     margin-top: 20px;
 }
 #alerta {
+    display: grid;
     grid-gap: 0px;
     margin-bottom: 0px;
 }
