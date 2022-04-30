@@ -16,9 +16,6 @@
 [![View Deployment](https://shields.io/badge/View-Deployment-yellow.svg)](https://euclides981.github.io/criptografia) 
 
 ---
-
-<br>
-
 ### :black_nib: Descrição:
 
 Este é um sistema de codificação de palavras. Ele transforma as vogais em palavras:
