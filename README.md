@@ -1,5 +1,3 @@
----
-
 # <div align="center">:lock: ENCRIPTADOR :old_key::unlock:</div>
  
 ## <div align="center">:green_circle: Projeto Proposto no Programa ONE - Oracle & Alura! :green_circle:</div>
@@ -37,6 +35,6 @@ Este é um sistema de codificação de palavras que transforma as vogais em pala
 
 ## :arrow_forward: Uma prévia do sistema em funcionamento.
 
-[![Prévia do Projeto](img/previa.gif)](https://github.com/euclides981/criptografia#readme)
+[<div align="center" width="280">![Prévia do Projeto](img/previa.gif)](https://github.com/euclides981/criptografia#readme)</div>
 
 ## :smile: Links Uteis
