@@ -1,12 +1,10 @@
 # <div align="center">:lock: ENCRIPTADOR :old_key::unlock:</div>
-
-<br>
  
 ## <div align="center">:green_circle: Projeto Proposto no Programa ONE - Oracle & Alura! :green_circle:</div>
 
 <br>
 
-[![Capa](img/banner.gif)](https://github.com/euclides981/criptografia#readme) 
+<div align="center"> [![Capa](img/banner.gif)](https://github.com/euclides981/criptografia#readme) </div>
 
 <br>
 
