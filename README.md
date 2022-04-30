@@ -1,6 +1,6 @@
-# :lock: ENCRIPTADOR
+# :lock: ENCRIPTADOR :unlock: :old_key:
 
-## 	:green_circle: Projeto Proposto no Programa ONE - Oracle & Alura!
+:green_circle: ## Projeto Proposto no Programa ONE - Oracle & Alura!
 
 <br>
 
@@ -37,20 +37,20 @@ Este é um sistema de codificação de palavras. Ele transforma as vogais em pal
 
 <br>
 
-## <center>	:iphone: Uma Prévia em dispositivos menores. </center>
+## :iphone: Uma Prévia em dispositivos menores.
 
 <br>
 
-[ <center> ![Prévia do Projeto](img/previa_mobile.png)](https://github.com/euclides981/criptografia#readme) </center>
+[![Prévia do Projeto](img/previa_mobile.png)](https://github.com/euclides981/criptografia#readme)
 
 <br>
 
-## <center> :arrow_forward: Uma prévia do sistema em funcionamento </center>
+## :arrow_forward: Uma prévia do sistema em funcionamento.
 
 <br>
 
-<center> <a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="250" ></a> </center>
+[![Prévia do Projeto](img/previa.gif)](https://github.com/euclides981/criptografia#readme)
 
 <br>
 
-## <center> :smile: Links Uteis </center>
+## :smile: Links Uteis
