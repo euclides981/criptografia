@@ -1,6 +1,9 @@
+___
+
 # <div align="center">:lock: ENCRIPTADOR :old_key::unlock:</div>
  
-## <div align="center">:green_circle: Projeto Proposto no Programa ONE - Oracle & Alura! :green_circle:</div>
+### <div align="center">:green_circle: Projeto Proposto no Programa ONE - Oracle & Alura! :green_circle:</div>
+___
 
 [ <div align="center"> ![Capa](img/banner.gif)](https://github.com/euclides981/criptografia#readme) </div>
 
@@ -12,7 +15,7 @@ ___
 ### :black_nib: Descrição:
 
 Este é um sistema de codificação de palavras que transforma as vogais em palavras:
-___
+
 ### :arrows_counterclockwise: Exemplo de como as trocas são feitas:
 
 - `Vogal a: `Transforma em : ai
