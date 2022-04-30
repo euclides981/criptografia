@@ -24,13 +24,15 @@ Este é um sistema de codificação de palavras que transforma as vogais em pala
 - `Vogal o: `Transforma em : ober
 - `Vogal u: `Transforma em : ufat
 ___
-##  <div align="center">:computer: A seguir apresento a prévia do projeto.</div>
+###  <div align="center">:computer: A seguir apresento a prévia do projeto.:computer:</div>
+
 [![Prévia do Projeto](img/previa.png)](https://github.com/euclides981/criptografia#readme)
 ___
-##  <div align="center">:iphone: Uma Prévia em dispositivos menores.</div>
+###  <div align="center">:iphone: Uma Prévia em dispositivos menores.</div>
+
 [![Prévia do Projeto](img/previa_mobile.png)](https://github.com/euclides981/criptografia#readme)
 ___
-##  <div align="center">:arrow_forward: Uma prévia do sistema em funcionamento.</div>
+###  <div align="center">:arrow_forward: Uma prévia do sistema em funcionamento.</div>
 ___
 <h1 align="center"><a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="300" alt="Docusaurus"></a></h1>
 ___
