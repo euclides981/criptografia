@@ -19,6 +19,8 @@
 
 Este é um sistema de codificação de palavras. Ele transforma as vogais em palavras:
 
+<br>
+
 ## :arrows_counterclockwise: Exemplo de como as trocas são feitas
 
 <br>
@@ -31,27 +33,24 @@ Este é um sistema de codificação de palavras. Ele transforma as vogais em pal
 
 <br>
 
-<br>
-
 ## :computer: A seguir apresento a prévia do projeto.
 
 [![Prévia do Projeto](img/previa.png)](https://github.com/euclides981/criptografia#readme)
 
 <br>
 
-## 	:iphone: Uma Prévia em dispositivos menores.
+## <center>	:iphone: Uma Prévia em dispositivos menores. </center>
 
 <br>
 
-[![Prévia do Projeto](img/previa_mobile.png)](https://github.com/euclides981/criptografia#readme)
+[ <center> ![Prévia do Projeto](img/previa_mobile.png)](https://github.com/euclides981/criptografia#readme) </center>
 
 <br>
 
-## :arrow_forward: Uma prévia do sistema em funcionamento
+## <center> :arrow_forward: Uma prévia do sistema em funcionamento </center>
 
 <br>
 
-<a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="250" ></a>
+<center> <a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="250" ></a> </center>
 
 <br>
-
