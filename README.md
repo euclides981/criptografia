@@ -1,7 +1,8 @@
 # :lock: ENCRIPTADOR :unlock: :old_key:
 
-:green_circle: 
-## Projeto Proposto no Programa ONE - Oracle & Alura!
+<br>
+ 
+### :green_circle: Projeto Proposto no Programa ONE - Oracle & Alura!
 
 <br>
 
