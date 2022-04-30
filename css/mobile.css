@@ -2,48 +2,52 @@
    padding: 5px;
 }
 #titulo {
-    color: white;
     text-transform: uppercase;
     letter-spacing: 0.2rem;
 }
 #aviso {
-    padding-top: 5px;
+    margin: 5px;
 }
 #txt {
     display: block;
-    padding: 10px;
-    padding-bottom: 0px;
 }
 .txts {
+    width: 90%;
     max-height: 150px;
+    margin-bottom: 10px;
 }
 #botoes{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    justify-content: center;
-    text-align: center;
-    padding-top: 0px;
+    grid-gap: 5px;
+    padding: 0px 20px 0px;
+    margin-bottom: 20px;
+}
+.btns { 
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+hr {
+    margin-top: 20px;
 }
 #alerta {
-    padding-top: 1px;
     display: grid;
     grid-template-columns: 1fr;
     color: #576867;
-    grid-gap: 10px;
+    margin-bottom: 0px;
 }
 #alerta2 {
     display: none;
 }
 #txtTec {
-    padding-top: 20px;
-    padding-bottom: 10px;
+    padding: 20px;
 }
 #tecs {
     display: flex;
     justify-content:space-evenly;
     align-items: center;
     color: #576867;
-    padding-bottom: 20px;
+    padding: 0px 0px 20px;
 }
 #meusLinks {
     padding: 10px;

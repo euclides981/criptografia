@@ -1,17 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 
-body {
+body, textarea, button{
     font-family: 'Share Tech Mono', monospace;
-    margin: 0;
     background: #d7e5e2;
 }
 #barraSuperior {
     display: grid;
+    padding: 20px;
     grid-template-columns: 1fr 1fr 1fr;
     background: #576867;
-    justify-items: center;
+    justify-items:center;
     align-items: center;
-    padding: 20px;
 }
 #titulo {
     color: white;
@@ -24,6 +23,31 @@ body {
     user-select: none;
     font-size: 1.5em;
     
+}
+#aviso {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    user-select: none;
+    color: red;
+}
+
+#txt {
+    display: grid;
+    grid-template-columns:1fr 4fr 4fr 1fr;
+    text-align: center;
+}
+.txts {
+    width: 90%;
+    margin-bottom: 30px;
+    resize: none;
+    color: black;
+    outline: none;
+    background-image: url("../img/boneco.svg");
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius: 5px;
 }
 .typing-animation {    
     animation: blinkCursor 1s 400ms steps(20) normal infinite, typing 4s steps(20) normal 5s;
@@ -45,46 +69,35 @@ body {
         border-right-color: transparent;
     }
 }
-
-#aviso {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 30px;
-    user-select: none;
-    color: red;
-}
-#txt {
-    display: grid;
-    grid-template-columns:1fr 1fr;
-    padding: 20px;
-    text-align: center;
-    grid-gap: 25px;
-}
-.txts {
-    width: 100%;
-    resize: none;
-    color: black;
-    outline: none;
-    background-color: transparent;
-    font-family: 'Share Tech Mono', monospace;
-    background-image: url("../img/boneco.svg");
-    background-repeat: no-repeat;
-    background-position: center;
-    border-radius: 10px;
-    padding-bottom: 50px;
-}
 #botoes{
-    padding: 20px;
-    justify-content: center;
-    text-align: center;   
+    text-align: center;  
+}
+.btns { 
+    background-color: #576867;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 13px;
+    letter-spacing: 0.1rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;  
+    margin-bottom: 20px;
+}
+.btns:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+hr {
+    max-width: 70%;
+    margin-top: 50px;
 }
 #alerta {
-    padding-top: 20px;
     display: flex;
     color: #576867;
     grid-gap: 20px;
     justify-content: center;
+    margin-bottom: 30px;
 }
 #alerta1 {
     display: flex;
@@ -96,31 +109,8 @@ body {
     align-items: center;
     justify-content: center;
 }
-.btns { 
-    background-color: #576867;
-    border: none;
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 13px;
-    font-family: 'Share Tech Mono', monospace;
-    letter-spacing: 0.1rem;
-    margin: 10px;
-    cursor: pointer;
-    text-transform: uppercase;
-    border-radius: 5px;   
-}
-.btns:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-}
-
-hr {
-    max-width: 70%;
-    margin-top: 20px;
-}
 #txtTec {
-    padding-top: 50px;
-    padding-bottom: 40px;
+    padding: 50px 0px 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -129,14 +119,14 @@ hr {
 }
 #tecs {
     display: flex;
+    padding: 50px 0px 70px;
     justify-content:space-evenly;
     align-items: center;
     text-align: center;
     color: #576867;
-    padding-bottom: 130px;
 }
 #meusLinks {
-    padding: 20px;
+    padding: 30px 0px 30px;
     display: flex;
     background: #576867;
     justify-content: center;
