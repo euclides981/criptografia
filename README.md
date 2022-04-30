@@ -34,7 +34,9 @@ ___
 ___
 ###  <div align="center">:arrow_forward: Uma prévia do sistema em funcionamento.</div>
 
-<h1 align="center"><a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="280" alt="Prévia Do Sistema Funcionando"></a></h1>
+<div align="center"><a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="280" alt="Prévia Do Sistema Funcionando"></a></div>
 
 ___
-## :smile: Links Uteis
+### :heavy_check_mark: Links Uteis
+
+[![Release](https://shields.io/badge/Release-v0.1-green)](https://github.com/euclides981/criptografia/releases/tag/v0.1)
