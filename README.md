@@ -1,11 +1,4 @@
-# :lock: ENCRIPTADOR :unlock: :old_key:
-
-<br>
-
-## :old_key: <h1 align="center">
-  <p align="center">ENCRIPTADOR</p>
-  <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a> :old_key:
-</h1>
+## :lock::old_key: <h1 align="center">ENCRIPTADOR</h1>:lock::old_key:
 
 <br>
  
