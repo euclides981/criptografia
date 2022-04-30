@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="center"> [![Capa](img/banner.gif)](https://github.com/euclides981/criptografia#readme) </div>
+[ <div align="center"> ![Capa](img/banner.gif)](https://github.com/euclides981/criptografia#readme) </div>
 
 <br>
 
