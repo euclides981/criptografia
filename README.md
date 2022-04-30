@@ -35,14 +35,13 @@ ___
 <div align="center"><a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="280" alt="Prévia Do Sistema Funcionando"></a></div>
 
 ___
-### :heavy_check_mark: Links Uteis
+### <div align="center">:heavy_check_mark: Links Uteis</div>
 
-[![Release](https://shields.io/badge/Release-v0.1-green)](https://github.com/euclides981/criptografia/releases/tag/v0.1)
+[<div align="center">![Release](https://shields.io/badge/Release-v0.1-green)](https://github.com/euclides981/criptografia/releases/tag/v0.1)
 [![Repositório](https://shields.io/badge/Repositório-Criptografia-yellow)](https://github.com/euclides981/criptografia)
 [![Perfil GitHub](https://shields.io/badge/Perfil-GitHub-blue)](https://github.com/euclides981/)
 [![Linkedin](https://shields.io/badge/Linkedin-Euclides-brown)](https://www.linkedin.com/in/euclides981/)
-[![Portifólio](https://shields.io/badge/Portifólio-Euclides-aqua)](https://euclides981.github.io)
-
+[![Portifólio](https://shields.io/badge/Portifólio-Euclides-aqua)](https://euclides981.github.io)</div>
 ___
 
 # <div align="center">:star: [![Estrelas](https://shields.io/badge/Estrelas-Veja%20quem%20já%20%20deu%20estrelas%20%20E%20Deixe%20a%20sua%20Também-red)](https://github.com/euclides981/criptografia/stargazers) :star:</div>
