@@ -1,5 +1,5 @@
 #barraSuperior {
-   padding: 5px;
+   padding: 12px;
 }
 #titulo {
     text-transform: uppercase;
@@ -31,9 +31,7 @@ hr {
     margin-top: 20px;
 }
 #alerta {
-    display: grid;
-    grid-template-columns: 1fr;
-    color: #576867;
+    grid-gap: 0px;
     margin-bottom: 0px;
 }
 #alerta2 {
@@ -50,5 +48,5 @@ hr {
     padding: 0px 0px 20px;
 }
 #meusLinks {
-    padding: 10px;
+    padding: 15px;
 }
