@@ -40,3 +40,7 @@ ___
 ### :heavy_check_mark: Links Uteis
 
 [![Release](https://shields.io/badge/Release-v0.1-green)](https://github.com/euclides981/criptografia/releases/tag/v0.1)
+[![Repositório](https://shields.io/badge/Repositório-Criptografia-yellow)](https://github.com/euclides981/criptografia)
+[![Perfil GitHub](https://shields.io/badge/Perfil-GitHub-blue)](https://github.com/euclides981/)
+[![Linkedin](https://shields.io/badge/Linkedin-Euclides-brown)](https://www.linkedin.com/in/euclides981/)
+[![Portifólio](https://shields.io/badge/Portifólio-Euclides-red)](https://euclides981.github.io)
