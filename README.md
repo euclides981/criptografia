@@ -4,8 +4,7 @@
 
 [ <div align="center"> ![Capa](img/banner.gif)](https://github.com/euclides981/criptografia#readme) </div>
 
----
-
+#
 
 [<div align="center">![Olá Mundo](https://shields.io/badge/Olá-Mundo-blue)](https://github.com/euclides981/criptografia#readme) 
 [![Status](https://shields.io/badge/STATUS-V%200.1%20Concluído-green)](https://github.com/euclides981/criptografia#readme) 
@@ -35,6 +34,9 @@ Este é um sistema de codificação de palavras que transforma as vogais em pala
 
 ## :arrow_forward: Uma prévia do sistema em funcionamento.
 
-[<div align="center" width="280">![Prévia do Projeto](img/previa.gif)](https://github.com/euclides981/criptografia#readme)</div>
+
+<h1 align="center">
+  <a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="300" alt="Docusaurus"></a>
+</h1>
 
 ## :smile: Links Uteis
