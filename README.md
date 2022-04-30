@@ -43,4 +43,4 @@ ___
 [![Repositório](https://shields.io/badge/Repositório-Criptografia-yellow)](https://github.com/euclides981/criptografia)
 [![Perfil GitHub](https://shields.io/badge/Perfil-GitHub-blue)](https://github.com/euclides981/)
 [![Linkedin](https://shields.io/badge/Linkedin-Euclides-brown)](https://www.linkedin.com/in/euclides981/)
-[![Portifólio](https://shields.io/badge/Portifólio-Euclides-red)](https://euclides981.github.io)
+[![Portifólio](https://shields.io/badge/Portifólio-Euclides-aqua)](https://euclides981.github.io)
