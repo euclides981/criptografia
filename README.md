@@ -26,11 +26,11 @@ ___
 
 [![Prévia do Projeto](img/previa.png)](https://github.com/euclides981/criptografia#readme)
 ___
-###  <div align="center">:iphone: Uma Prévia em dispositivos menores.</div>
+###  <div align="center">:iphone: Uma Prévia em dispositivos menores.:iphone:</div>
 
 [![Prévia do Projeto](img/previa_mobile.png)](https://github.com/euclides981/criptografia#readme)
 ___
-###  <div align="center">:arrow_forward: Uma prévia do sistema em funcionamento.</div>
+###  <div align="center">:on: Uma prévia do sistema em funcionamento.:on:</div>
 
 <div align="center"><a href="https://github.com/euclides981/criptografia#readme"><img src="img/previa.gif" width="280" alt="Prévia Do Sistema Funcionando"></a></div>
 
@@ -44,4 +44,6 @@ ___
 [![Portifólio](https://shields.io/badge/Portifólio-Euclides-aqua)](https://euclides981.github.io)</div>
 ___
 
-### <div align="center">:star: [![Estrelas](https://shields.io/badge/Estrelas-Veja%20quem%20já%20%20deu%20estrelas%20%20E%20Deixe%20a%20sua%20Também-red)](https://github.com/euclides981/criptografia/stargazers) :star:</div>
+### <div align="center">:star::star::star:</div> 
+
+### <div align="center">[![Estrelas](https://shields.io/badge/Estrelas-Veja%20quem%20já%20%20deu%20estrelas%20%20E%20Deixe%20a%20sua%20Também-red)](https://github.com/euclides981/criptografia/stargazers)</div>
