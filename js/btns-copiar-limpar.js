@@ -1,7 +1,3 @@
-document.getElementById("ctrlc").addEventListener("click", copiaECola);
-
-document.getElementById("limp").addEventListener("click", limpeza);
-
 async function copiaECola() {
 	
 	let text = document.getElementById("saida").value;
