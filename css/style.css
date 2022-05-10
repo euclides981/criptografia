@@ -38,6 +38,7 @@ body, textarea, button{
 }
 .txts {
     width: 90%;
+    height: 100%;
     margin-bottom: 30px;
     resize: none;
     color: black;
@@ -82,6 +83,7 @@ body, textarea, button{
     cursor: pointer;
     text-transform: uppercase;
     border-radius: 5px;  
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 .btns:hover {
@@ -96,6 +98,7 @@ hr {
     color: #576867;
     grid-gap: 20px;
     justify-content: center;
+    margin-top: 50px;
     margin-bottom: 30px;
 }
 #alerta1 {
@@ -109,7 +112,7 @@ hr {
     justify-content: center;
 }
 #txtTec {
-    padding: 50px 0px 50px;
+    padding: 70px 0px 50px;
     display: flex;
     justify-content: center;
     align-items: center;

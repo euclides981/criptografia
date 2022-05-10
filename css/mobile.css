@@ -13,7 +13,6 @@
 }
 .txts {
     width: 90%;
-    max-height: 180px;
     margin-bottom: 10px;
 }
 #botoes{
@@ -25,12 +24,14 @@
 }
 .btns { 
     font-size: 13px;
+    margin-top: 0px;
     margin-bottom: 0px;
 }
 hr {
     margin-top: 20px;
 }
 #alerta {
+    margin-top: 0px;
     margin-bottom: 0px;
 }
 #alerta2 {
